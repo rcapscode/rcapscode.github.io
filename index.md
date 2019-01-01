@@ -62,8 +62,8 @@ You can find Full Documentation to deploy your app to App store from Here
 ```
 
 7. **Live Demo**
-    a. Food App is :- here
-    b. Social Media App is : here
-    c. Shopping App is here
+    a. Food App is :-  <a href="https://play.google.com/store/apps/details?id=io.food.app" target="_blank">here</a>
+    b. Social Media App is : <a href="https://play.google.com/store/apps/details?id=io.social.app" target="_blank">here</a>
+    c. Shopping App is: here <a href="https://play.google.com/store/apps/details?id=io.shoppingApp.app" target="_blank">here</a>
 
 
